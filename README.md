@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shivankmishra and I am an ML Expert
+- 👋 Hi, I’m @shivankmishra and I enjoy working on ML projects
 - 👀 I’m interested in solving ecological, and human health issues using my skillset
 - 🌱 I’m currently learning to be a better Product Manager
 - 💞️ I’m looking to collaborate on finding solutions to microplastics
